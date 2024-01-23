@@ -12,16 +12,19 @@
 
 
 
-### Hi, I'm Sam McGraw 
-🔭 I’m currently working on creating curriclum for Robotic Process Automation (RPA)
-✨ Founder of Foto Box Press (yes with an 'F' and not 'ph') - see the various books and manuals in 'Foto'
-🌱 I’m currently learning, for the rest of my life, Python - it is the best
+# Hi, I'm Sam McGraw 
+🔭 I’m currently working on creating curriculum for Robotic Process Automation (RPA)  
 
-### Giving back to the community (my volunter work)
+✨ Founder of Foto Box Press *(yes with an 'F' and not a 'ph')* - see the various books and manuals in 'Foto'  
+
+🌱 I’m currently learning, for the rest of my life, Python - it is the best  
+
+
+## Giving back to the community (my volunteer work)
 - International Institute of Business Analysis 
 - Open Container Initiative
 - PyData NYC 
-
+---
 ### 📫 How to reach me: smcgraw.net@gmail.com
 
 <!--
