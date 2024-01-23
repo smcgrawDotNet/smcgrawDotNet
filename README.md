@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi, I'm Sam McGraw 
+🔭 I’m currently working on creating curriclum for Robotic Process Automation (RPA)
+✨ Founder of Foto Box Press (yes with an 'F' and not 'ph') - see the various books and manuals in 'Foto'
+🌱 I’m currently learning, for the rest of my life, Python - it is the best
+
+### Giving back to the community (my volunter work)
+- International Institute of Business Analysis 
+- Open Container Initiative
+- PyData NYC 
+
+### 📫 How to reach me: smcgraw.net@gmail.com
 
 <!--
 **smcgrawDotNet/smcgrawDotNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +16,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
