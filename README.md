@@ -1,3 +1,17 @@
+
+
+
+
+
+
+![hubal_scop](https://github.com/smcgrawDotNet/smcgrawDotNet/assets/31113440/83511698-381b-49e2-beca-521c9b542538)
+
+
+
+
+
+
+
 ### Hi, I'm Sam McGraw 
 🔭 I’m currently working on creating curriclum for Robotic Process Automation (RPA)
 ✨ Founder of Foto Box Press (yes with an 'F' and not 'ph') - see the various books and manuals in 'Foto'
