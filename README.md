@@ -15,9 +15,9 @@
 # Hi, I'm Sam McGraw 
 🔭 I’m currently working on creating curriculum for Robotic Process Automation (RPA)  
 
-✨ Founder of Foto Box Press *(yes with an 'F' and not a 'ph')* - see the various books and manuals in 'Foto'  
+✨ Durning day-light, I'm the Operations Manager at Photo Box Press 
 
-🌱 I’m currently learning, for the rest of my life, Python - it is the best  
+🌱 Currently learning, for the rest of my life, Python - it is the best  
 
 
 ## Giving back to the community (my volunteer work)
