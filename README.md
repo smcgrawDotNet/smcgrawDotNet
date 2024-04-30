@@ -15,7 +15,7 @@
 # Hi, I'm Sam McGraw 
 🔭 I’m currently working on creating curriculum for Robotic Process Automation (RPA)  
 
-✨ Durning day-light, I'm the Operations Manager at Photo Box Press 
+✨ Durning day-light, I'm the COO at Photo Box Press [A start-up in Brooklyn, NY]
 
 🌱 Currently learning, for the rest of my life, Python - it is the best  
 
