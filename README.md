@@ -1,11 +1,4 @@
 
-
-
-
-
-
-![hubal_scop]()
-
 👋 Hi, I'm Sam McGraw
 
 🎯 Technical Curriculum Developer & Systems Thinker
