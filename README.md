@@ -6,26 +6,24 @@
 
 ![hubal_scop](https://github.com/smcgrawDotNet/smcgrawDotNet/assets/31113440/83511698-381b-49e2-beca-521c9b542538)
 
+👋 Hi, I'm Sam McGraw
 
+🎯 Technical Curriculum Developer & Systems Thinker
+With a strong background in education, automation, and software systems, I specialize in designing scalable solutions that empower teams and learners alike.
 
+🔧 Current Focus:
 
+    Developing Robotic Process Automation (RPA) curriculum that bridges technical precision with practical learning outcomes
 
+    Leveraging Python, Node-RED, and automation frameworks to streamline workflows and make complex systems accessible
 
+💼 Leadership Role:
+COO at Photo Box Press — A Brooklyn-based start-up blending creativity and tech to deliver personalized storytelling experiences at scale.
 
-# Hi, I'm Sam McGraw 
-🔭 I’m currently working on creating curriculum for Robotic Process Automation (RPA)  
+📚 Always Learning:
+Exploring advanced Python, data integration, and emerging open-source tools to enhance both technical and instructional systems.
 
-✨ Durning day-light, I'm the COO at Photo Box Press [A start-up in Brooklyn, NY]
-
-🌱 Currently learning, for the rest of my life, Python - it is the best  
-
-
-## Giving back to the community (my volunteer work)
-- International Institute of Business Analysis 
-- Open Container Initiative
-- PyData NYC 
----
-### 📫 How to reach me: smcgraw.net@gmail.com
+📫 How to reach me: dev.sam.mcgraw@gmail.com
 
 <!--
 **smcgrawDotNet/smcgrawDotNet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
