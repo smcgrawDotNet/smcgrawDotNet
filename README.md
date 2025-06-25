@@ -4,7 +4,7 @@
 
 
 
-![hubal_scop](https://github.com/smcgrawDotNet/smcgrawDotNet/assets/31113440/83511698-381b-49e2-beca-521c9b542538)
+![hubal_scop]()
 
 👋 Hi, I'm Sam McGraw
 
